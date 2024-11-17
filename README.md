@@ -1,2 +1,1 @@
-# Curso-programacion
-Repositorio de prueba
+Prueba de Gib hut a escritorio local
